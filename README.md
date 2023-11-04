@@ -2,6 +2,10 @@
 
 My entry for the 2023 GameOff (https://itch.io/jam/game-off-2023)
 
+## Day 4 - 2023-11-04
+## Day 3 - 2023-11-03  
+Nothing much done on the game, still working through the Gotot tutorial. Getting more comfortable with the engine, so ready to start making some scenes of my own soon. 
+
 ## Day 2 - 2023-11-02
 
 Set up git proper with simple .gitignore and set up an empty 2D project in Godot. Still a bit rusty on that engine so currently following this excellent (and looooong) tutorial: https://www.youtube.com/watch?v=nAh_Kx5Zh5Q
